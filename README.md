@@ -2,7 +2,7 @@
 
 기본적으로 제공되는 [overleaf/overleaf](https://github.com/overleaf/overleaf) 저장소 내 docker-compose.yml 파일이 올바르게 동작하지 않아서, overleaf 5.1 버전(2024/08 기준)에서 잘 동작하게 수정한 docker-compose 설정 파일.
 
-## 사용 방법
+### 사용 방법
 1. Build dgr_overleaf_full(change name what you want!) docker image from sharelatex/sharelatex official overleaf docker image
 ```
 # pull github repository
@@ -27,3 +27,7 @@ cd $HOME/overleaf-docker
 cd $HOME/overleaf-docker
 docker-compose down
 ```
+
+### acknowledgement
+ * this repository contains [laekov/panleaf](https://github.com/laekov/panleaf) codes, with distributed under Apache-2.0 License. Copyright 2021, laekov.
+ * 
