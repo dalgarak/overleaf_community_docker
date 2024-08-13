@@ -29,5 +29,4 @@ docker-compose down
 ```
 
 ### acknowledgement
- * this repository contains [laekov/panleaf](https://github.com/laekov/panleaf) codes, with distributed under Apache-2.0 License. Copyright 2021, laekov.
- * 
+ * This repository contains [laekov/panleaf](https://github.com/laekov/panleaf) codes, which distributed under Apache-2.0 License. Copyright 2021, laekov., All rights reserved.
