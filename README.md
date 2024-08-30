@@ -22,6 +22,9 @@ cd $HOME/overleaf-docker
 ./launch.sh
 ```
 
+2-1. (run once) Create first admin at https://localhost:9080/launchpad, then login into overleaf community edition. 
+2-2. enjoy writing!
+
 3. if you want to stop docker-compose, just execute following commands:
 ```
 cd $HOME/overleaf-docker
