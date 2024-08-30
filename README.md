@@ -5,8 +5,8 @@
 ### 사용 방법
 1. Build dgr_overleaf_full(change name what you want!) docker image from sharelatex/sharelatex official overleaf docker image
 ```
-# pull github repository
-git pull https://github.com/dalgarak/overleaf_community_docker $HOME/overleaf-docker
+# clone github repository
+git clone https://github.com/dalgarak/overleaf_community_docker $HOME/overleaf-docker
 
 # change directory to build texlive full-scheme overleaf image
 cd overleaf-docker/full-texlive
