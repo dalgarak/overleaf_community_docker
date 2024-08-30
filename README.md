@@ -25,7 +25,8 @@ cd $HOME/overleaf-docker
 3. if you want to stop docker-compose, just execute following commands:
 ```
 cd $HOME/overleaf-docker
-docker-compose down
+docker compose down
+# or use docker-compose script
 ```
 
 ### acknowledgement
