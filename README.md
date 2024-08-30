@@ -23,6 +23,7 @@ cd $HOME/overleaf-docker
 ```
 
 2-1. (run once) Create first admin at https://localhost:9080/launchpad, then login into overleaf community edition. 
+
 2-2. enjoy writing!
 
 3. if you want to stop docker-compose, just execute following commands:
